@@ -17,7 +17,7 @@
 ![Badge](https://img.shields.io/badge/Agile_framework-Scrum-%235d8239?logo=)  \
 ![Badge](https://img.shields.io/badge/Tools-REST_API-%235d8239?logo=)  
 
-⚡ Love playing the piano, windsurfing, skiing and eating sushi.
+⚡ Love playing the games, crossfit, Moto GP and eating Paella.
 
 ### 💬 Ask me about anything, reach me via:
 <a href="mailto:lukaszprotosawicki@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lukaszprotosawicki@gmail.com-blue?style=flat-square&logo=gmail"></a>
