@@ -20,6 +20,6 @@
 ⚡ Love playing the piano, windsurfing, skiing and eating sushi.
 
 ### 💬 Ask me about anything, reach me via:
-<a href="mailto:lukas.es.p@o2.pl"><img alt="Email" src="https://img.shields.io/badge/Email-jameshopegit@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lukaszprotosawicki@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lukaszprotosawicki@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
