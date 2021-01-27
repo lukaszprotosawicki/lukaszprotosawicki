@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-### My name is Lucas. Lukasz Protosawicki.
+### My name is Lucas.
 
 <img align="right" width="300px" alt="GIF" src="https://uploads.toptal.io/blog/image/92137/toptal-blog-image-1455717817638-f1c9424752a145ebf97219ec7a2d6cca.gif" />
 
