@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://uploads.toptal.io/blog/image/92137/toptal-blog-image-1455717817638-f1c9424752a145ebf97219ec7a2d6cca.gif" />
 
-:computer: Designing unique and engaging digital experiences makes my day (or night).  \
+:computer: 
 :wrench: I’m currently developing my programming skills, staying focused on perfecting:  \
 ![Badge](https://img.shields.io/badge/Markup_Language-HTML5-%235d8239?logo=HTML5)  \
 ![Badge](https://img.shields.io/badge/Style_Sheet_Language-CSS3-%235d8239?logo=CSS3&logoColor=blue)  \
@@ -17,7 +17,7 @@
 ![Badge](https://img.shields.io/badge/Agile_framework-Scrum-%235d8239?logo=)  \
 ![Badge](https://img.shields.io/badge/Tools-REST_API-%235d8239?logo=)  
 
-⚡ Love playing the games, crossfit, Moto GP and eating Paella.
+⚡ Love playing the Games, CrossFighter, Moto GP and eating Paella.
 
 ### 💬 Ask me about anything, reach me via:
 <a href="mailto:lukaszprotosawicki@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lukaszprotosawicki@gmail.com-blue?style=flat-square&logo=gmail"></a>
