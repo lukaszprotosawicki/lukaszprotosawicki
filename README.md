@@ -3,7 +3,7 @@
 
 <img align="right" width="300px" alt="GIF" src="https://uploads.toptal.io/blog/image/92137/toptal-blog-image-1455717817638-f1c9424752a145ebf97219ec7a2d6cca.gif" />
 
-Participation in the course infoShare Academy. 
+Participation in the course Front-end Developer in infoShare Academy. 
 
 :computer: 
 :wrench: I’m currently developing my programming skills, staying focused on perfecting:  
