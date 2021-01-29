@@ -5,7 +5,7 @@
 
 Participation in the course Front-end Developer in [infoShare Academy. ](https://infoshareacademy.com)
 
-Portfolio github: [lukaszprotosawicki](https://lukaszprotosawicki.github.io/src/)
+Portfolio github: [lukaszprotosawicki](https://lukaszprotosawicki.github.io/)
 
 :computer: 
 :wrench: I’m currently developing my programming skills, staying focused on perfecting:  
